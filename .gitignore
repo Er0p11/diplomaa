@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Базы данных и логи
+*.sqlite3
+*.db
+*.log
+
+# Сборка
+build/
+dist/
+*.spec
+
+# Среды разработки
+.idea/
+.vscode/
